@@ -1,0 +1,2 @@
+[all]
+ec2-3-86-140-194.compute-1.amazonaws.com ansible_ssh_pass=suchith2000 ansible_user=suchit
