@@ -1,0 +1,8 @@
+---
+- name: Deploy docker img
+  hosts: all
+  tasks:
+    - name: Pull scical image
+      docker_image:
+        name: jaideepkukkadapu/miniproj
+        source: pull
