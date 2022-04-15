@@ -1,0 +1,16 @@
+15/Apr/2022:12:02:35 061 [My_Main.java] [INFO] SciCal.My_Main [FACTORIAL] - 5
+15/Apr/2022:12:02:35 065 [My_Main.java] [INFO] SciCal.My_Main [RESULT - FACTORIAL] - 120.0
+15/Apr/2022:12:02:35 065 [My_Main.java] [INFO] SciCal.My_Main [LOG] - 245.256
+15/Apr/2022:12:02:35 066 [My_Main.java] [INFO] SciCal.My_Main [RESULT - LOG] - 5.502302562978017
+15/Apr/2022:12:02:35 066 [My_Main.java] [INFO] SciCal.My_Main [ROOT] - 16.0
+15/Apr/2022:12:02:35 066 [My_Main.java] [INFO] SciCal.My_Main [RESULT - ROOT] - 4.0
+15/Apr/2022:12:02:35 067 [My_Main.java] [INFO] SciCal.My_Main [LOG] - 145.256
+15/Apr/2022:12:02:35 067 [My_Main.java] [INFO] SciCal.My_Main [RESULT - LOG] - 4.978497702968366
+15/Apr/2022:12:02:35 067 [My_Main.java] [INFO] SciCal.My_Main [POWER] - 3.0, 2.0
+15/Apr/2022:12:02:35 068 [My_Main.java] [INFO] SciCal.My_Main [RESULT - POWER] - 9.0
+15/Apr/2022:12:02:35 068 [My_Main.java] [INFO] SciCal.My_Main [FACTORIAL] - 6
+15/Apr/2022:12:02:35 068 [My_Main.java] [INFO] SciCal.My_Main [RESULT - FACTORIAL] - 720.0
+15/Apr/2022:12:02:35 068 [My_Main.java] [INFO] SciCal.My_Main [POWER] - 2.0, 3.0
+15/Apr/2022:12:02:35 069 [My_Main.java] [INFO] SciCal.My_Main [RESULT - POWER] - 8.0
+15/Apr/2022:12:02:35 069 [My_Main.java] [INFO] SciCal.My_Main [ROOT] - 17.0
+15/Apr/2022:12:02:35 069 [My_Main.java] [INFO] SciCal.My_Main [RESULT - ROOT] - 4.123105625617661
