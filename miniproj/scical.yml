@@ -11,10 +11,6 @@
         baseurl: https://download.docker.com/linux/centos/7/x86_64/stable/
         gpgcheck: no
 
-    # - name: Package Installer For Docker
-    #   package:
-    #     name: docker
-    #     state: present
 
     - name: Package Installer For Python3 
       package:
@@ -32,4 +28,12 @@
       docker_image:
         name: jaideepkukkadapu/miniproj
         source: pull
-    
+
+- name : Deploy
+  hosts : suchith
+  remote_user: root
+  tasks:
+    - name: Pull scical image
+      docker_image:
+        name: jaideepkukkadapu/miniproj
+        source: pull
