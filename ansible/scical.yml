@@ -1,0 +1,13 @@
+---
+- name: Deploy docker img
+  hosts: all
+  tasks:
+    - name: Pull scical image
+      docker_image:
+        name: jaideepkukkadapu/miniproj
+        source: pull
+    
+    - name: ensure service is enabled
+      - service: 
+        name: docker 
+        state: started
