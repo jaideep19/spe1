@@ -1,5 +1,5 @@
 FROM openjdk:8
-COPY ./target/SciCal-1.0-SNAPSHOT-jar-with-dependencies.jar ./
+COPY ./target/Calculator-0.0.1-SNAPSHOT.jar ./
 WORKDIR ./
 # jcdkelws
 # java -cp Calculator-0.0.1-SNAPSHOT.jar miniproj.Calculator.App

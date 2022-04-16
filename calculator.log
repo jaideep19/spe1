@@ -14,3 +14,11 @@
 16/Apr/2022:15:14:32 960 [App.java] [INFO] miniproj.Calculator.App [RESULT - ROOT] - 5.0
 16/Apr/2022:15:14:32 960 [App.java] [INFO] miniproj.Calculator.App [ROOT] - 36.0
 16/Apr/2022:15:14:32 960 [App.java] [INFO] miniproj.Calculator.App [RESULT - ROOT] - 6.0
+16/Apr/2022:15:17:17 656 [App.java] [INFO] miniproj.Calculator.App [FACTORIAL] - 5
+16/Apr/2022:15:17:17 660 [App.java] [INFO] miniproj.Calculator.App [RESULT - FACTORIAL] - 120
+16/Apr/2022:15:17:17 660 [App.java] [INFO] miniproj.Calculator.App [FACTORIAL] - 4
+16/Apr/2022:15:17:17 660 [App.java] [INFO] miniproj.Calculator.App [RESULT - FACTORIAL] - 24
+16/Apr/2022:15:17:17 661 [App.java] [INFO] miniproj.Calculator.App [ROOT] - 25.0
+16/Apr/2022:15:17:17 661 [App.java] [INFO] miniproj.Calculator.App [RESULT - ROOT] - 5.0
+16/Apr/2022:15:17:17 661 [App.java] [INFO] miniproj.Calculator.App [ROOT] - 36.0
+16/Apr/2022:15:17:17 662 [App.java] [INFO] miniproj.Calculator.App [RESULT - ROOT] - 6.0
