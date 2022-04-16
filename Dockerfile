@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM --platform=linux/amd64 openjdk:8
 COPY ./target/Calculator-0.0.1-SNAPSHOT.jar ./
 WORKDIR ./
 # jcdkelws
