@@ -2,4 +2,5 @@ FROM openjdk:8
 COPY ./target/SciCal-1.0-SNAPSHOT-jar-with-dependencies.jar ./
 WORKDIR ./
 # jcdkelws
-CMD ["java", "-cp", "SciCal-1.0-SNAPSHOT-jar-with-dependencies.jar", "SciCal.My_Main"]
+# java -cp Calculator-0.0.1-SNAPSHOT.jar miniproj.Calculator.App
+CMD ["java", "-cp", "Calculator-0.0.1-SNAPSHOT.jar", "miniproj.Calculator.App"]
